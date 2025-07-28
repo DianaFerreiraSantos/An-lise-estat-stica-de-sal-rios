@@ -1,1 +1,1 @@
-# Anlise-estatstica-de-salrios
+# Anlise-estatistica-de-salarios
